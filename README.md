@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m’appelle Gontran05</h1>
-<h3 align="center">Un développeur frontend passionné d’Inde</h3>
+<h3 align="center">Un passionné de l'informatique et de la tech</h3>
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
